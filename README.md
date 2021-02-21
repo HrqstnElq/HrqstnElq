@@ -1,5 +1,3 @@
-[![HrqstnElq](dino.gif)](https://www.linkedin.com/in/shin2208/)
-
 ### Hi there, I'm Huu Tri 👋
 
 ## I'm a Student, Undergraduate, Developer!
