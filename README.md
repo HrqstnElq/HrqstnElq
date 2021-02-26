@@ -3,9 +3,9 @@
 ## I'm a Student, Undergraduate, Developer!
 
 - 🌊 I’m currently working on a my final year project!
-- 🍀 I’m currently learning Backend .Net and Frontend ReactJs, Angular
+- 🍀 I’m currently learning Backend .Net, Nodejs and Frontend ReactJs, Angular
 - 🥦 I’m looking to collaborate with other developer
-- 😀 Hobby: I love to play the game and listen to music.
+- 😀 Hobby: I love to breathe.
 
 ### Connect with me:
 
