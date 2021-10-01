@@ -1,1 +1,1 @@
-[![Profile](dino.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Profile](dino.gif)](https://youtu.be/dQw4w9WgXcQ)
